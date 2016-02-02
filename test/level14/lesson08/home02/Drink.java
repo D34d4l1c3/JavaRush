@@ -9,5 +9,5 @@ public abstract class Drink
     {
         System.out.println("Вкусно");
     }
-	
+	System.out.println("djahskjQHSKJ");
 }
